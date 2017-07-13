@@ -1,0 +1,16 @@
+[{
+  "title": "店家管理",
+  "icon": "fa-cubes",
+  "spread": true,
+  "href":"button.html"
+}, {
+  "title": "用户管理",
+  "icon": "fa-cogs",
+  "spread": false,
+  "href": "navbar.html"
+}, {
+  "title": "申请入驻用户",
+  "icon": "fa-cogs",
+  "spread": false,
+  "href": "button.html"
+}]
